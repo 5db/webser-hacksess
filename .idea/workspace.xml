@@ -64,6 +64,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/webser/WEB-INF/spring/servlet-context.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/webser/WEB-INF/web.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/webser/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webser-hacksess.iws" />
@@ -76,7 +77,7 @@
     <file path="/applicationContext-security.xml" changelist="3d5e3bed-536b-498b-96fe-dc832b318bbc" time="1369966717214" ignored="false" />
     <file path="/servlet-context.xml" changelist="3d5e3bed-536b-498b-96fe-dc832b318bbc" time="1369966849635" ignored="false" />
     <file path="/fragment.java" changelist="3d5e3bed-536b-498b-96fe-dc832b318bbc" time="1369967363529" ignored="false" />
-    <file path="/.gitignore" changelist="3d5e3bed-536b-498b-96fe-dc832b318bbc" time="1369969141741" ignored="false" />
+    <file path="/.gitignore" changelist="3d5e3bed-536b-498b-96fe-dc832b318bbc" time="1369969297886" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +224,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -821,7 +822,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
